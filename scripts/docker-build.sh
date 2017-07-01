@@ -1,0 +1,1 @@
+docker build -t mkfarrow/node-web-app .
